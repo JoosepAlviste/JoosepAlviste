@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joosep, a full-stack developer from Estonia with an MSc from Uppsala University. Currently focusing more on front-end development.
+I'm Joosep, a full-stack developer from Estonia with an MSc in Computer Science from Uppsala University. Currently focusing more on front-end development.
 
 Tech I'm comfortable with:
 - TypeScript <img height="16px" alt="TypeScript logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> ｜ React <img height="16px" alt="React logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> ｜ Vue <img height="16px" alt="Vue logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
