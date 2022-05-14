@@ -8,6 +8,9 @@ Tech I'm comfortable with:
 - Python <img height="16px" alt="Python logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> ｜ Django <img height="16px" alt="Django logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 - GraphQL <img height="16px" alt="GraphQL logo" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" /> ｜ Docker <img height="16px" alt="Docker logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+Some articles I've written:
+- [Micro KISSing PHP with Vue (or, transitioning from PHP-rendered pages to Vue with KISS micro-frontends)](https://medium.com/scoro-engineering/micro-kissing-php-with-vue-2ed4b6f91a06)
+
 <img src="https://github-readme-stats.vercel.app/api?username=JoosepAlviste&show_icons=false">
 
 <!--
