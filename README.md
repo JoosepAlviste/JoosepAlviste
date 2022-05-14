@@ -11,7 +11,7 @@ Tech I'm comfortable with:
 Some articles I've written:
 - [Micro KISSing PHP with Vue (or, transitioning from PHP-rendered pages to Vue with KISS micro-frontends)](https://medium.com/scoro-engineering/micro-kissing-php-with-vue-2ed4b6f91a06)
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoosepAlviste&show_icons=false">
+<img src="https://github-readme-stats.vercel.app/api?username=JoosepAlviste&show_icons=true&theme=tokyonight">
 
 <!--
 **JoosepAlviste/JoosepAlviste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
