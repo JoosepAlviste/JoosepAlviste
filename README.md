@@ -12,15 +12,15 @@ I'm Joosep, a full-stack developer from Estonia with an MSc in Computer Science 
 
 <div>
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/0" alt="5 smart mini-snippets to amp up your text editing experience in Neovim">
   </a>
   <br>
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/1">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/1" alt="Improving the user experience of page navigation with Apollo Client">
   </a>
   <br>
   <a href="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/2" alt="Micro KISSing PHP with Vue">
   </a>
 </div>
 
