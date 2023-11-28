@@ -10,33 +10,8 @@ I'm Joosep, a full-stack developer from Estonia with an MSc in Computer Science 
 
 **Some articles I've written:**
 
-<div>
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/0" alt="5 smart mini-snippets to amp up your text editing experience in Neovim">
-  </a>
-  <br>
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/1" alt="Improving the user experience of page navigation with Apollo Client">
-  </a>
-  <br>
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@joosepalviste/2" alt="Micro KISSing PHP with Vue">
-  </a>
-</div>
+- [5 smart mini-snippets to amp up your text editing experience in Neovim](https://medium.com/scoro-engineering/5-smart-mini-snippets-for-making-text-editing-more-fun-in-neovim-b55ffb96325a)
+- [Improving the user experience of page navigation with Apollo Client, using partial list view data to pre-fill detail views](https://medium.com/scoro-engineering/improving-the-user-experience-of-page-navigation-with-apollo-client-ebfca0e83c08)
+- [Micro KISSing PHP with Vue, or, transitioning from PHP-rendered pages to Vue with KISS micro-frontends](https://medium.com/scoro-engineering/micro-kissing-php-with-vue-2ed4b6f91a06)
 
 <img src="https://github-readme-stats.vercel.app/api?username=JoosepAlviste&show_icons=true&theme=tokyonight">
-
-<!--
-**JoosepAlviste/JoosepAlviste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
