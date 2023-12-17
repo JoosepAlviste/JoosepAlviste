@@ -15,3 +15,5 @@ I'm Joosep, a full-stack developer from Estonia with an MSc in Computer Science 
 - [Micro KISSing PHP with Vue, or, transitioning from PHP-rendered pages to Vue with KISS micro-frontends](https://medium.com/scoro-engineering/micro-kissing-php-with-vue-2ed4b6f91a06)
 
 <img src="https://github-readme-stats.vercel.app/api?username=JoosepAlviste&show_icons=true&theme=tokyonight">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1SA4I2)
